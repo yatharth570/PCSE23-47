@@ -1,0 +1,17 @@
+Following are the steps to run the project on machine:
+
+Step-1:Install suitable version of python from https://www.python.org/downloads/ on the machine.
+Step-2:Declare the environent variables for python.
+Step-3:Install pip using the following reference https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
+Step-4:Install numpy, pandas using the following command:
+        pip install numpy
+        pip install pandas
+        pip install scikit-learn
+        pip install tensorflow
+
+Step-5: Run the file ecobee_thermostat.py and provision_camera.py using any code editor or command prompt
+        python ecobee_thermostat.py
+        python provision_camera.py
+
+
+Format of Output- After running the file the result is displayed in the command line.
